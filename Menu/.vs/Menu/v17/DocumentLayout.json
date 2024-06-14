@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Melida perez\\source\\repos\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0D4E3-C9A7-492D-ADD5-3553D14CD22B}|Menu\\Menu.csproj|c:\\users\\melida perez\\desktop\\menu.program||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D0D4E3-C9A7-492D-ADD5-3553D14CD22B}|Menu\\Menu.csproj|C:\\Users\\Melida perez\\source\\repos\\Menu\\menu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36D0D4E3-C9A7-492D-ADD5-3553D14CD22B}|Menu\\Menu.csproj|solutionrelative:menu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.program",
+              "DocumentMoniker": "C:\\Users\\Melida perez\\Desktop\\menu.program",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\menu.program",
+              "ToolTip": "C:\\Users\\Melida perez\\Desktop\\menu.program",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\menu.program",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T05:47:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Melida perez\\source\\repos\\Menu\\Menu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Menu\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Melida perez\\source\\repos\\Menu\\Menu\\MainWindow.xaml",
+              "RelativeToolTip": "Menu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T05:47:11.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

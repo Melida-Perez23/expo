@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Melida perez\\source\\repos\\StatusBar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6546F23-8D89-40E0-AF69-5EB2CC79ADE3}|StatusBar\\StatusBar.csproj|c:\\users\\melida perez\\source\\repos\\statusbar\\statusbar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6546F23-8D89-40E0-AF69-5EB2CC79ADE3}|StatusBar\\StatusBar.csproj|solutionrelative:statusbar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6546F23-8D89-40E0-AF69-5EB2CC79ADE3}|StatusBar\\StatusBar.csproj|C:\\Users\\Melida perez\\source\\repos\\StatusBar\\statusbar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6546F23-8D89-40E0-AF69-5EB2CC79ADE3}|StatusBar\\StatusBar.csproj|solutionrelative:statusbar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Melida perez\\source\\repos\\StatusBar\\StatusBar\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StatusBar\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Melida perez\\source\\repos\\StatusBar\\StatusBar\\MainWindow.xaml",
+              "RelativeToolTip": "StatusBar\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T05:52:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Melida perez\\source\\repos\\StatusBar\\StatusBar\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StatusBar\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Melida perez\\source\\repos\\StatusBar\\StatusBar\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StatusBar\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:52:27.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿<Window x:Class="MenuContext.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MenuContext"
+        mc:Ignorable="d"
+        Title="Menu context" Height="450" Width="900">
+    <Grid>
+        <TextBox x:Name="txtMedida" HorizontalAlignment="Left" Margin="19,20,0,0" Text="" VerticalAlignment="Top" Width="120" >
+            <TextBox.ContextMenu>
+                <ContextMenu>
+
+                    <MenuItem x:Name="menuPulgacm" Header="Pulgadas a cm" Click="menuPulgacm_Click"/>
+                    <MenuItem x:Name="menuCMaPulg" Header="cm a pulgadas" Click="menuCMaPulg_Click"/>
+
+                </ContextMenu>
+            </TextBox.ContextMenu>
+        </TextBox>
+
+    </Grid>
+</Window>

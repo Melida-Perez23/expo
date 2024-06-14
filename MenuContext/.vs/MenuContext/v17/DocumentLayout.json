@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Melida perez\\source\\repos\\MenuContext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3604F96-F35F-45D6-A976-D73AC3971B6C}|MenuContext\\MenuContext.csproj|c:\\users\\melida perez\\source\\repos\\menucontext\\menucontext\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3604F96-F35F-45D6-A976-D73AC3971B6C}|MenuContext\\MenuContext.csproj|solutionrelative:menucontext\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3604F96-F35F-45D6-A976-D73AC3971B6C}|MenuContext\\MenuContext.csproj|C:\\Users\\Melida perez\\source\\repos\\MenuContext\\menucontext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3604F96-F35F-45D6-A976-D73AC3971B6C}|MenuContext\\MenuContext.csproj|solutionrelative:menucontext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Melida perez\\source\\repos\\MenuContext\\MenuContext\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MenuContext\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Melida perez\\source\\repos\\MenuContext\\MenuContext\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MenuContext\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:53:35.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Melida perez\\source\\repos\\MenuContext\\MenuContext\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MenuContext\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Melida perez\\source\\repos\\MenuContext\\MenuContext\\MainWindow.xaml",
+              "RelativeToolTip": "MenuContext\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T06:53:37.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

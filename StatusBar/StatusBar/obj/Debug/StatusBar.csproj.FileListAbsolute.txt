@@ -1,0 +1,15 @@
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\bin\Debug\StatusBar.exe.config
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\bin\Debug\StatusBar.exe
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\bin\Debug\StatusBar.pdb
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar.csproj.AssemblyReference.cache
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\MainWindow.g.cs
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\App.g.cs
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar_MarkupCompile.cache
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar_MarkupCompile.lref
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\MainWindow.baml
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar.g.resources
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar.Properties.Resources.resources
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar.csproj.GenerateResource.cache
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar.csproj.CoreCompileInputs.cache
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar.exe
+C:\Users\Melida perez\source\repos\StatusBar\StatusBar\obj\Debug\StatusBar.pdb

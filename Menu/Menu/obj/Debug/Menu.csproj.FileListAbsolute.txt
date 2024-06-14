@@ -1,0 +1,15 @@
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\Melida perez\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Melida perez\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Melida perez\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\MainWindow.baml
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu.g.resources
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Melida perez\source\repos\Menu\Menu\obj\Debug\Menu.pdb
